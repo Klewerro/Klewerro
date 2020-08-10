@@ -1,5 +1,6 @@
 # Hi there 👋
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klewerro&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+---
 ### Languages
 <img alt="C#" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> <img alt="java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 <img alt="kotlin" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
@@ -21,6 +22,8 @@
 <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 <br/>
 
+
+<div style="text-align: right">Froms from Icons8</div>
 <!--
 **Klewerro/Klewerro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
