@@ -1,7 +1,7 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on my graduation project (R).
-- 🌱 I’m currently learning Kotlin.
+- 🔭 I’m currently working on Covid-19 Android application written in Kotlin.
+- 🌱 I’m currently learning Kotlin and testing.
 - ⚡ Fun fact: My nickname is a variation of the word 'clever'. It stuck to me after trying to eliminate an opponent with a knife in pit (he got me by 180 no-scope when I was behind him), on de_dust2 in CS:S.
 
 <!-- https://github.com/avinal/Profile-Readme-WakaTime -->
